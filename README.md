@@ -43,15 +43,3 @@ const AhmedElZnaty = {
 * 🐍 I also work with **Python**
 * 🚀 I’m always learning and improving my programming skills
 * 🛠️ I enjoy building projects and experimenting with new ideas
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/AhmedElZnaty">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedElZnaty&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs
